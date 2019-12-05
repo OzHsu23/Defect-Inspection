@@ -3,7 +3,7 @@
 
 RetinaNet  Demo
 
-In RetinaNet Demo is follow from:https://github.com/fizyr/keras-retinanet , thank you for the author.
+In RetinaNet Demo follow from:https://github.com/fizyr/keras-retinanet , thank you for the author.
 The difference is I train the model in the PCB & AOI dataset and add the detect vedio part in example/PCB_video.py
 
 In CPU:
