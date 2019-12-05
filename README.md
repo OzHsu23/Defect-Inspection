@@ -1,5 +1,5 @@
 # Defect-Inspection
-In Defect-Inspection,I tried the two Deep learning methods(RetinaNet & Yolo3) to defect inspection(PCB & AOI).Moreover, I also imitated the traditional method to defect inspection by OpenCV.
+In Defect-Inspection,I tried the two Deep learning methods to defect inspection(PCB & AOI).Moreover, I also imitated the traditional method to defect inspection by OpenCV.
 The outcomes and demo is below:
 
 RetinaNet  Demo
