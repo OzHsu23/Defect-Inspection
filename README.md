@@ -17,7 +17,7 @@ PCB DataSet mAP:95.12% Time:3.168s/per img
 Yolo3 Demo
 
 In Yolo3 Demo follow from:https://github.com/qqwweee/keras-yolo3, thanks for the author.
-Also, I train the model in the PCB & AOI dataset.
+Also, I train the model in the PCB & AOI dataset.Detect vedio part is in yolo.py
 
 In CPU:
 
